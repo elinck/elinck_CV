@@ -105,14 +105,14 @@ Ecology, UW Biology, Seattle, WA.
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (Zosterops
 griseotinctus.) California Academy of Sciences Summer Systematics Institute Symposium,
-San Francisco, CA
+San Francisco, CA.
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (Zosterops
-griseotinctus.) Oral Thesis Defense, Reed College, Portland, OR
+griseotinctus.) Oral Thesis Defense, Reed College, Portland, OR.
 
 **Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade
 White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
-(STARs) Seminar Series, Reed College, Portland, Oregon
+(STARs) Seminar Series, Reed College, Portland, OR.
 
 # Field Experience
 
@@ -160,7 +160,7 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 - Sequence data publicly available on GenBank  
 
 # Graduate Committee  
-John Klicka, Janneke Hille Ris Lambers, Richard Olmstead, Lorenz Hauser  
+J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser
 
 # Collaborators
 E. Bridge (U Oklahoma); R. Bryson (U Washington); J. Duckles (U Oklahoma); J. 
