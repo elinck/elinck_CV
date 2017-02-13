@@ -1,31 +1,35 @@
+(*updated 02132017*)
+
 # Ethan Linck ![kingfisher](https://github.com/elinck/elinck_CV/blob/master/kingfisher.png?raw=true)
-Ph.D. Candidate, University of Washington Dept. of Biology & Burke Museum of Natural History & Culture  
+Ph.D. Candidate  
+University of Washington Dept. of Biology  
+Burke Museum of Natural History & Culture    
 6800 27th Ave NE Unit 1, Seattle, WA 98115  
-ph: (802) 777-6662
-email: elinck@uw.edu  
+phone: (802) 777-6662  
+email: elinck@uw.edu   
 
 # Education 
 
-Ph.D. 2014 - 2019 (expected). University of Washington, Seattle, WA  
+Ph.D. 2014 - 2019 (*expected*). **University of Washington,** Seattle, WA  
 
-B.A. 2009 - 2013 Reed College  
+B.A. 2009 - 2013 **Reed College,** Portland, OR  
 
 # Publications 
 
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization 
-capture with RAD probes as a tool for museum genomics with historical bird specimens. bioRxiv.
+capture with RAD probes as a tool for museum genomics with historical bird specimens. *bioRxiv.*
 DOI: https://doi.org/10.1101/100867
 
 **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
 migration patterns in Painted Buntings using the worlds bird collections as
-an aggregated resource. PeerJ 4:e1871. DOI: 10.7717/peerj.1871
+an aggregated resource. *PeerJ* 4:e1871. DOI: https://doi.org/10.7717/peerj.1871
 
 **Linck, E.**, Schaack, S., Dumbacher, J. 2015. Genetic differentiation within a widespread
 "supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (Zosterops
-griseotinctus). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: 
+griseotinctus). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: https://doi.org/10.1016/j.ympev.2015.08.018.
 
 **Linck, E. 2010**. Notes on birds and logistics from the south side of Mount Giluwe,
-SHP. Muruk, 10(1), 4-7. 
+SHP. *Muruk* 10(1), 4-7. 
 
 # Grants & Awards
 
@@ -112,54 +116,54 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 
 # Field Experience
 
-*Idaho & SE Washington, USA:* General collecting for UWBM Ornithology 2015
-Colorado, USA: Managing Boechera garden plots along an elevational 2014
-transect
+*Idaho & SE Washington, USA:* 2015. General collecting for UWBM Ornithology. 
 
-*Colorado, USA:* Winter caretaker at snowbound Rocky Mountain 2013-2014Biological Laboratory field station
+*Colorado, USA:* 2014. Managing Boechera garden plots along an elevational transect.
 
-Monteverde, Costa Rica: Bird surveys of pasture trees and pitfall 2012
-trapping of dung beetles
+*Colorado, USA:* 2013-2014. Winter caretaker at snowbound Rocky Mountain Biological Laboratory field station. 
 
-Northern Mariana Islands, USA: Point count bird surveys and forest ecology 2011
+*Monteverde, Costa Rica:* 2012. Bird surveys of pasture trees and pitfall trapping of dung beetles. 
 
-Sandaun Province, Papua New Guinea: Mist netting and point count 2010
-bird surveys
+*Northern Mariana Islands, USA:* 2011. Point count bird surveys and forest ecology.
 
-Oregon, USA: Bird banding assistant at a wetland molt migrant stopover site 2010
+*Sandaun Province, Papua New Guinea.* 2010. Mist netting and point count bird surveys.
 
-Michoacan, Mexico: Assistant naturalist, University of Florida group tour of 2010. Monarch butterfly colonies
+*Oregon, USA:* 2010. Bird banding assistant at a wetland molt migrant stopover site.
 
-Southern Highlands Province, Papua New Guinea: Naturalist in residence, 2009 Ambua Lodge
+*Michoacan, Mexico.* 2010. Assistant naturalist, Expedition Travel / University of Florida group tour of Monarch butterfly colonies.
 
-Gulf Province, Papua New Guinea: GIS mapping of clan boundaries, 2008
-Crater Mountain Wildlife Management Area
+*Southern Highlands Province, Papua New Guinea.* 2009. Naturalist in residence, Ambua Lodge.
 
+*Gulf Province, Papua New Guinea.* 2008. GIS mapping of clan boundaries,Crater Mountain Wildlife Management Area. 
 
 # Outreach & Service
 
-Popular Writing  
-• Weekly Pacific Northwest science news column for Seattle-area paper The Stranger  
-• Occasional columnist, High Country News, Science Positive  
-• Occasional essayist, Hypocrite Reader, Bearings Journal  
+**Popular Writing**  
+- Science correspondent for Seattle-area paper *The Stranger*  
+- Occasional columnist, *High Country News, Science Positive*  
+- Occasional essayist, *Hypocrite Reader, Bearings Journal*  
 
-Natural History Museum Collections
-• Weekly preparation of scientific bird specimens for the Burke Museum collections  
-• Annual participation in the Burke Museums collecting expeditions  
-• Tour guide for UW Introductory Biology field trips to the Burke Museum specimen collections  
-• Regularly help run the Burke Museums Members Night and Birds at the Burke  
-outreach events  
+**Natural History Museum Collections**  
+- Weekly preparation of scientific bird specimens for the Burke Museum collections    
+- Annual participation in the Burke Museums collecting expeditions  
+- Tour guide for UW Introductory Biology field trips to the Burke Museum specimen collections  
+- Regularly help run the Burke Museums Members Night and Birds at the Burke outreach events  
 
-Departmental Service  
-• Organizer for a graduate student seminar on phylogenetics  
-• Host for prospective graduate students  
+**Departmental Service**  
+- Organizer for a graduate student seminar on phylogenetics  
+- Host for prospective graduate students  
 
-Contributions to the field  
-• Contributing writer, The Molecular Ecologist, a field-specific news, literature  
-and methods tutorial website (http://www.molecularecologist.com/)  
-• Manuscript referee, Molecular Phylogenetics and Evolution, PeerJ  
-• R scripts publicly available on GitHub (http://github.com/elinck)  
-• Sequence data publicly available on GenBank  
+**Contributions to the field**    
+- Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
+- Manuscript referee, *Molecular Phylogenetics and Evolution*, *PeerJ*  
+- R scripts publicly available on GitHub (http://github.com/elinck)  
+- Sequence data publicly available on GenBank  
 
 # Graduate Committee  
 John Klicka, Janneke Hille Ris Lambers, Richard Olmstead, Lorenz Hauser  
+
+# Collaborators
+E. Bridge (U Oklahoma); R. Bryson (U Washington); J. Duckles (U Oklahoma); J. 
+Dumbacher (California Academy of Sciences); K. Epperly (UW Biology); E. Fricke (U Iowa); R. Guralnick (U
+Florida); Z. Hanna (UC Berkeley); J. McCormack (Occidental College); A. Navarro-Siguenza (UNAM); A. Sellas (California Academy of Sciences); H. Rogers (U Iowa); S. Rohwer (U
+Washington), S. Schaack (Reed College), K. Sheldon (U Tennessee), E. Zarza (Occidental College)
