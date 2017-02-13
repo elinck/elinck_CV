@@ -1,4 +1,4 @@
-# Ethan Linck ![kingfisher](http://phylopic.org/assets/images/submissions/632580ed-9bf0-4e01-b3b6-3cf31fcf417e.64.png)
+# Ethan Linck ![kingfisher](https://github.com/elinck/elinck_CV/blob/master/kingfisher.png?raw=true)
 Ph.D. Candidate, University of Washington Dept. of Biology & Burke Museum of Natural History & Culture  
 6800 27th Ave NE Unit 1, Seattle, WA 98115  
 ph: (802) 777-6662
