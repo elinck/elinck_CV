@@ -155,9 +155,9 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 
 **Contributions to the field**    
 - Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Manuscript referee, *Molecular Phylogenetics and Evolution*, *PeerJ*  
-- R scripts publicly available on GitHub (http://github.com/elinck)  
-- Sequence data publicly available on GenBank  
+- Manuscript referee, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*  
+- Scripts publicly available on GitHub (http://github.com/elinck)  
+- Sequence data publicly available on GenBank / Dryad 
 
 # Graduate Committee  
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser
