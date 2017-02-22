@@ -1,4 +1,4 @@
-(*updated 02132017*)
+(*updated 02212017*)
 
 # Ethan Linck ![kingfisher](https://github.com/elinck/elinck_CV/blob/master/kingfisher.png?raw=true)
 Ph.D. Candidate  
@@ -33,23 +33,23 @@ SHP. *Muruk* 10(1), 4-7.
 
 # Grants & Awards
 
-**NSF Doctoral Dissertation Improvement Grant.** 2017. $20,078. 
+**NSF Doctoral Dissertation Improvement Grant.** 2017. $20,084. 
 
 **NDSEG Fellowship.** 2016. $172,000.
 
 **WRF-Hall Fellowship.** 2016. $13,000.
 
-**WRF-Hall Supplemental Funds.** $5100.  
+**WRF-Hall Supplemental Funds.** $5,100.  
 
 **AOU Student Membership Award.** 2015. $25. 
 
-**Society of Systematic Biologists Graduate Student Research Award.** 2015. $1500
+**Society of Systematic Biologists Graduate Student Research Award.** 2015. $1,500
 
-**Reed College BURP Fund.** 2012. $1500.
+**Reed College BURP Fund.** 2012. $1,500.
 
-**Reed College Arch and Fran Diack Student Field Research Fund.** 2010. $4200.
+**Reed College Arch and Fran Diack Student Field Research Fund.** 2010. $4,200.
 
-**Explorers Club Youth Activity Fund.** $1500. 2009.
+**Explorers Club Youth Activity Fund.** 2009. $1,500.
 
 # Honors
 
@@ -88,7 +88,7 @@ SHP. *Muruk* 10(1), 4-7.
 **Linck, E.** Natural history museums, DNA, and avian evolution. 2016 Eastside Audubon Society, Kirkland, WA. 
 
 **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
-migratory behavior in Passerina ciris with specimen collections and remote
+migratory behavior in Painted Buntings with specimen collections and remote
 sensing data. Rocky Mountain Biology Laboratory Graduate Student Talks, Gothic,
 CO.
 
