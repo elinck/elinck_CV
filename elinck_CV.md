@@ -1,4 +1,4 @@
-(*updated 02212017*)
+(*updated 030717*)
 
 # Ethan Linck ![kingfisher](https://github.com/elinck/elinck_CV/blob/master/kingfisher.png?raw=true)
 Ph.D. Candidate  
