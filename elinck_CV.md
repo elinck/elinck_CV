@@ -28,7 +28,7 @@ an aggregated resource. *PeerJ* 4:e1871. DOI: https://doi.org/10.7717/peerj.1871
 "supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (Zosterops
 griseotinctus). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: https://doi.org/10.1016/j.ympev.2015.08.018.
 
-**Linck, E. 2010**. Notes on birds and logistics from the south side of Mount Giluwe,
+**Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7. 
 
 # Grants & Awards
@@ -39,7 +39,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 **WRF-Hall Fellowship.** 2016. $13,000.
 
-**WRF-Hall Supplemental Funds.** $5,100.  
+**WRF-Hall Supplemental Funds.** 2016. $5,100.  
 
 **AOU Student Membership Award.** 2015. $25. 
 
@@ -92,7 +92,7 @@ migratory behavior in Painted Buntings with specimen collections and remote
 sensing data. Rocky Mountain Biology Laboratory Graduate Student Talks, Gothic,
 CO.
 
-**Linck**, E., Sellas, A., Hanna, Z., Dumbacher, J. 2016. hyRAD, museum genomics,
+**Linck, E.**, Sellas, A., Hanna, Z., Dumbacher, J. 2016. hyRAD, museum genomics,
 and the phylogeography of a New Guinea forest kingfisher. Evolution Meetings,
 Austin, TX.
 
