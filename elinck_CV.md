@@ -25,8 +25,8 @@ migration patterns in Painted Buntings using the worlds bird collections as
 an aggregated resource. *PeerJ* 4:e1871. DOI: https://doi.org/10.7717/peerj.1871
 
 **Linck, E.**, Schaack, S., Dumbacher, J. 2015. Genetic differentiation within a widespread
-"supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (Zosterops
-griseotinctus). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: https://doi.org/10.1016/j.ympev.2015.08.018.
+"supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (*Zosterops
+griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: https://doi.org/10.1016/j.ympev.2015.08.018.
 
 **Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7. 
