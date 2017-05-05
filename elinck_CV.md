@@ -1,6 +1,6 @@
-(*updated 030717*)
+(*updated 050417*)
 
-# Ethan Linck ![kingfisher](https://github.com/elinck/elinck_CV/blob/master/kingfisher.png?raw=true)
+# Ethan Linck
 Ph.D. Candidate  
 University of Washington Dept. of Biology  
 Burke Museum of Natural History & Culture    
@@ -16,22 +16,32 @@ B.A. 2009 - 2013 **Reed College,** Portland, OR
 
 # Publications 
 
+Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
+A Migratory Divide In The Painted Bunting (Passerina ciris). *bioRxiv*.
+DOI:[10.1101/132910](https://doi.org/10.1101/132910)
+
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization 
-capture with RAD probes as a tool for museum genomics with historical bird specimens. *bioRxiv.*
-DOI: https://doi.org/10.1101/100867
+capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8). 
+DOI:[10.1002/ece3.3065](https://doi.org/10.1002/ece3.3065)
 
 **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
 migration patterns in Painted Buntings using the worlds bird collections as
-an aggregated resource. *PeerJ* 4:e1871. DOI: https://doi.org/10.7717/peerj.1871
+an aggregated resource. *PeerJ* 4:e1871. DOI:[10.7717/peerj.1871](https://doi.org/10.7717/peerj.1871)
 
 **Linck, E.**, Schaack, S., Dumbacher, J. 2015. Genetic differentiation within a widespread
 "supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (*Zosterops
-griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: https://doi.org/10.1016/j.ympev.2015.08.018.
+griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI:[10.1016/j.ympev.2015.08.018](https://doi.org/10.1016/j.ympev.2015.08.018)
 
 **Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7. 
 
-# Grants & Awards
+*In review*  
+  
+**Linck, E.**, Fricke, E., Rogers, H. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
+  
+**Linck, E.**, Huber, H., Greeney, H., Sheldon, K. Nesting biology of the Blue-and-white Swallow *(Notiochelidon cyanoleuca)* in northeastern Ecuador. *Ornitologia Neotropical.*  
+  
+# Grants & Awards  
 
 **NSF Doctoral Dissertation Improvement Grant.** 2017. $20,084. 
 
@@ -63,6 +73,8 @@ SHP. *Muruk* 10(1), 4-7.
  
 **National Defense Science and Engineering Graduate Fellow.** 2016 - 2019. US Department of Defense.
 
+**Contributing Writer.** *The Molecular Ecologist.*
+
 **Visiting Researcher.** 2016. Dept. Ornithology & Mammology, California Academy of Sciences.
 
 **WRF-Hall Fellow.** 2016. Department of Biology, University of Washington. 
@@ -83,9 +95,12 @@ SHP. *Muruk* 10(1), 4-7.
 
 # Presentations 
 
-**Linck, E.** Natural history museums, DNA, and avian evolution. 2017. Trology Bird Club, Redmond, WA. 
+**Linck, E.** 2017. Phenotype, species limits, and adaptation in a New Guinea kingfisher. Graduate Student Symposium,
+UW Biology, Seattle, WA.  
 
-**Linck, E.** Natural history museums, DNA, and avian evolution. 2016 Eastside Audubon Society, Kirkland, WA. 
+**Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Trilogy Bird Club, Redmond, WA. 
+
+**Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Eastside Audubon Society, Kirkland, WA. 
 
 **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
 migratory behavior in Painted Buntings with specimen collections and remote
@@ -100,11 +115,14 @@ Austin, TX.
 phylogeography of the Rufous-capped Brush Finch. Graduate Student Symposium,
 UW Biology, Seattle, WA.
 
+Urquhart, G.R., Maes, J.M., **Linck, E.** 2015. Critical Uncertainties and Gaps in the Environmental and Social-Impact Assessment of the Proposed Interoceanic Canal through Nicaragua: Terrestrial Biodiversity
+Second International Workshop on the Interoceanic Canal through Nicaragua, Managua, Nicaragua.
+
 **Linck, E.** 2015. Guest Lecture: Island Biogeography. Biology 472: Community
 Ecology, UW Biology, Seattle, WA.
 
-**Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (Zosterops
-griseotinctus.) California Academy of Sciences Summer Systematics Institute Symposium,
+**Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
+griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium,
 San Francisco, CA.
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (Zosterops
@@ -113,6 +131,46 @@ griseotinctus.) Oral Thesis Defense, Reed College, Portland, OR.
 **Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade
 White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 (STARs) Seminar Series, Reed College, Portland, OR.
+
+# Popular Writing
+
+[Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*
+
+[How Trump's War on Science Might Hurt the University of Washington.](http://www.thestranger.com/slog/2017/01/27/24829608/how-trumps-war-on-science-might-hurt-the-university-of-washington) 2017. *The Stranger.*
+
+[British Scientists Wanted No Exit From the EU.](http://www.thestranger.com/slog/2016/06/24/24257994/british-scientists-wanted-no-exit-from-the-eu) 2016. *The Stranger.*
+
+[Science News (weekly column).](http://www.thestranger.com/authors/23759410/ethan-linck) 2016. *The Stranger.*
+
+[Wilderness and "A Third-World Critique" in the Era of Climate Change.](http://www.hypocritereader.com/69/title) 2016. *The Hypocrite Reader* 69. 
+
+[The UW Light Rail Station Will Help Bridge the Psychological Distance Between the Two Halves of the City.](http://www.thestranger.com/slog/2016/03/18/23758213/why-university-of-washington-station-will-help-bridge-the-psychological-distance-between-the-two-halves-of-the-city) 2016. *The Stranger.*
+
+[Birds, Whiskey, and the Modern Evolutionary Synthesis: Ernst Mayr in the Solomon Islands.](http://www.hypocritereader.com/59/mayr) 2015. *The Hypocrite Reader* 59. 
+
+[The Gorge.](http://www.bearings-journal.com/) 2015. *Bearings Journal* 1. 
+
+[A Trail Runner Defends His Right to Public Lands.](http://www.hcn.org/articles/anger-against-trail-runners-public-lands-Mt-Rainier-Wonderland-Grand-Canyon-response) 2015. *High Country News.*
+
+[Black Coffee.](http://hypocritereader.com/47/black-coffee) 2014. *The Hypocrite Reader* 47.
+
+[El Oso Plateado.](http://hypocritereader.com/39/el-oso-plateado) 2014. *The Hypocrite Reader* 39.
+
+[The Enduring Appeal of Counting Birds.](http://hypocritereader.com/33/counting-birds) 2013. *The Hypocrite Reader* 33. 
+
+[On Singing. 2013.](http://hypocritereader.com/31/on-singing) *The Hypocrite Reader* 31. 
+
+# Teaching Experience  
+
+Biology 472: Community Ecology. Fall 2015. Teaching Assistant. Department of Biology, University of Washington.  
+
+Biology 452: Vertebrate Biology. Summer 2015. Teaching Assistant. Department of Biology, University of Washington.  
+
+Biology 200: Introductory Biology II. Fall 2014. Teaching Assistant. Department of Biology, University of Washington.   
+
+Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Teaching Assistant. Department of Biology, University of Washington.  
+
+Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biology, Reed College.   
 
 # Field Experience
 
@@ -138,12 +196,7 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 
 # Outreach & Service
 
-**Popular Writing**  
-- Science correspondent for Seattle-area paper *The Stranger*  
-- Occasional columnist, *High Country News, Science Positive*  
-- Occasional essayist, *Hypocrite Reader, Bearings Journal*  
-
-**Natural History Museum Collections**  
+ **Natural History Museum Collections**  
 - Weekly preparation of scientific bird specimens for the Burke Museum collections    
 - Annual participation in the Burke Museums collecting expeditions  
 - Tour guide for UW Introductory Biology field trips to the Burke Museum specimen collections  
