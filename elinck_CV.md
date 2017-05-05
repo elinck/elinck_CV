@@ -18,19 +18,19 @@ B.A. 2009 - 2013 **Reed College,** Portland, OR
 
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
 A Migratory Divide In The Painted Bunting (Passerina ciris). *bioRxiv*.
-DOI:[10.1101/132910](https://doi.org/10.1101/132910)
+DOI: [10.1101/132910](https://doi.org/10.1101/132910)
 
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization 
 capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8). 
-DOI:[10.1002/ece3.3065](https://doi.org/10.1002/ece3.3065)
+DOI: [10.1002/ece3.3065](https://doi.org/10.1002/ece3.3065)
 
 **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
 migration patterns in Painted Buntings using the worlds bird collections as
-an aggregated resource. *PeerJ* 4:e1871. DOI:[10.7717/peerj.1871](https://doi.org/10.7717/peerj.1871)
+an aggregated resource. *PeerJ* 4:e1871. DOI: [10.7717/peerj.1871](https://doi.org/10.7717/peerj.1871)
 
 **Linck, E.**, Schaack, S., Dumbacher, J. 2015. Genetic differentiation within a widespread
 "supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (*Zosterops
-griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI:[10.1016/j.ympev.2015.08.018](https://doi.org/10.1016/j.ympev.2015.08.018)
+griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: [10.1016/j.ympev.2015.08.018](https://doi.org/10.1016/j.ympev.2015.08.018)
 
 **Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7. 
@@ -158,7 +158,7 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 
 [The Enduring Appeal of Counting Birds.](http://hypocritereader.com/33/counting-birds) 2013. *The Hypocrite Reader* 33. 
 
-[On Singing. 2013.](http://hypocritereader.com/31/on-singing) *The Hypocrite Reader* 31. 
+[On Singing.](http://hypocritereader.com/31/on-singing) 2013. *The Hypocrite Reader* 31. 
 
 # Teaching Experience  
 
