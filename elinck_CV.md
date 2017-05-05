@@ -174,19 +174,19 @@ Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biolog
 
 # Field Experience
 
-*Idaho & SE Washington, USA:* 2015. General collecting for UWBM Ornithology. 
+*Idaho & SE Washington, USA.* 2015. General collecting for UWBM Ornithology. 
 
-*Colorado, USA:* 2014. Managing Boechera garden plots along an elevational transect.
+*Colorado, USA.* 2014. Managing Boechera garden plots along an elevational transect.
 
-*Colorado, USA:* 2013-2014. Winter caretaker at snowbound Rocky Mountain Biological Laboratory field station. 
+*Colorado, USA.* 2013-2014. Winter caretaker at snowbound Rocky Mountain Biological Laboratory field station. 
 
-*Monteverde, Costa Rica:* 2012. Bird surveys of pasture trees and pitfall trapping of dung beetles. 
+*Monteverde, Costa Rica.* 2012. Bird surveys of pasture trees and pitfall trapping of dung beetles. 
 
-*Northern Mariana Islands, USA:* 2011. Point count bird surveys and forest ecology.
+*Northern Mariana Islands, USA.* 2011. Point count bird surveys and forest ecology.
 
 *Sandaun Province, Papua New Guinea.* 2010. Mist netting and point count bird surveys.
 
-*Oregon, USA:* 2010. Bird banding assistant at a wetland molt migrant stopover site.
+*Oregon, USA.* 2010. Bird banding assistant at a wetland molt migrant stopover site.
 
 *Michoacan, Mexico.* 2010. Assistant naturalist, Expedition Travel / University of Florida group tour of Monarch butterfly colonies.
 
