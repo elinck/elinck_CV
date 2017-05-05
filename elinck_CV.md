@@ -115,7 +115,7 @@ Austin, TX.
 phylogeography of the Rufous-capped Brush Finch. Graduate Student Symposium,
 UW Biology, Seattle, WA.
 
-Urquhart, G.R., Maes, J.M., **Linck, E.** 2015. Critical Uncertainties and Gaps in the Environmental and Social-Impact Assessment of the Proposed Interoceanic Canal through Nicaragua: Terrestrial Biodiversity
+Urquhart, G.R., Maes, J.M., **Linck, E.** 2015. Critical Uncertainties and Gaps in the Environmental and Social-Impact Assessment of the Proposed Interoceanic Canal through Nicaragua: Terrestrial Biodiversity.
 Second International Workshop on the Interoceanic Canal through Nicaragua, Managua, Nicaragua.
 
 **Linck, E.** 2015. Guest Lecture: Island Biogeography. Biology 472: Community
