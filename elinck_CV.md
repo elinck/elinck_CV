@@ -17,7 +17,7 @@ B.A. 2009 - 2013 **Reed College,** Portland, OR
 # Publications 
 
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
-A Migratory Divide In The Painted Bunting (Passerina ciris). *bioRxiv*.
+A Migratory Divide In The Painted Bunting (*Passerina ciris*). *bioRxiv*.
 DOI: [10.1101/132910](https://doi.org/10.1101/132910)
 
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization 
