@@ -73,7 +73,7 @@ SHP. *Muruk* 10(1), 4-7.
  
 **National Defense Science and Engineering Graduate Fellow.** 2016 - 2019. US Department of Defense.
 
-**Contributing Writer.** *The Molecular Ecologist.*
+**Contributing Writer.** 2016 - present. *The Molecular Ecologist.*
 
 **Visiting Researcher.** 2016. Dept. Ornithology & Mammology, California Academy of Sciences.
 
