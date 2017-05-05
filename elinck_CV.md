@@ -25,7 +25,7 @@ capture with RAD probes as a tool for museum genomics with historical bird speci
 DOI: [10.1002/ece3.3065](https://doi.org/10.1002/ece3.3065)
 
 **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
-migration patterns in Painted Buntings using the worlds bird collections as
+migration patterns in Painted Buntings using the world's bird collections as
 an aggregated resource. *PeerJ* 4:e1871. DOI: [10.7717/peerj.1871](https://doi.org/10.7717/peerj.1871)
 
 **Linck, E.**, Schaack, S., Dumbacher, J. 2015. Genetic differentiation within a widespread
