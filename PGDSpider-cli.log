@@ -1,0 +1,12 @@
+INFO  04-08 11:07:59,502 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /Users/ethanlinck/Downloads/PGDSpider_2.1.1.2/spider.conf.xml
+DEBUG 04-08 11:07:59,780 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 04-08 11:07:59,837 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  04-08 11:08:03,650 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  04-08 13:47:35,454 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /Users/ethanlinck/Downloads/PGDSpider_2.1.1.2/spider.conf.xml
+DEBUG 04-08 13:47:35,589 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 04-08 13:47:35,635 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  04-08 13:47:43,461 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  04-08 13:55:21,062 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /Users/ethanlinck/Downloads/PGDSpider_2.1.1.2/spider.conf.xml
+DEBUG 04-08 13:55:21,184 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 04-08 13:55:21,222 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  04-08 13:55:23,660 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
