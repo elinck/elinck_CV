@@ -18,11 +18,11 @@ B.A. 2009 - 2013 **Reed College,** Portland, OR
 # Publications 
 
 **Linck, E.**, Battey, C.J. 2017. Minor allele frequency thresholds strongly affect population 
-structure inference with genomic datasets. *bioRxiv*.
+structure inference with genomic datasets. *bioRxiv*. DOI: [10.1101/188623](https://doi.org/10.1101/188623)
 
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. In Press. 
 A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*.
-DOI: [10.1101/132910](https://doi.org/10.1101/132910) 
+Preprint DOI: [10.1101/132910](https://doi.org/10.1101/132910) 
 
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization 
 capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8). 
