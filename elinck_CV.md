@@ -1,6 +1,6 @@
-(*updated 091517*)
+(*updated 052918*)
 
-# Ethan Linck
+## Ethan Linck
 Ph.D. Candidate  
 University of Washington Dept. of Biology  
 Burke Museum of Natural History & Culture    
@@ -9,20 +9,20 @@ phone: (802) 777-6662
 email: elinck@uw.edu  
 web: https://elinck.github.io/   
 
-# Education 
+## Education 
 
 Ph.D. 2014 - 2019 (*expected*). **University of Washington,** Seattle, WA  
 
 B.A. 2009 - 2013 **Reed College,** Portland, OR  
 
-# Publications 
+## Publications 
+
+Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2018. 
+A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*
+191(2), 259-268. DOI: [10.1086/695439](https://doi.org/10.1086/695439) 
 
 **Linck, E.**, Battey, C.J. 2017. Minor allele frequency thresholds strongly affect population 
 structure inference with genomic datasets. *bioRxiv*. DOI: [10.1101/188623](https://doi.org/10.1101/188623)
-
-Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. In Press. 
-A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*.
-Preprint DOI: [10.1101/132910](https://doi.org/10.1101/132910) 
 
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization 
 capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8). 
@@ -42,8 +42,17 @@ SHP. *Muruk* 10(1), 4-7.
 *In review*  
   
 **Linck, E.**, Fricke, E., Rogers, H. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
+
+*In prep*  
+  
+**Linck, E.**, Epperly, K., van Els, P., Spellman, G., Bryson, R.W., McCormack, J.C., Cañales, R., Klicka, J. Sampling 
+bias hides paraphyly and novel taxa in a classic sibling species complex.  
     
-# Grants & Awards  
+## Grants & Awards  
+
+**American Museum of Natural History Chapman Grant.** 2018. $2,000.  
+
+**American Ornithological Society Travel Award.** 2018. $300.  
 
 **NSF Doctoral Dissertation Improvement Grant.** 2017. $20,084. 
 
@@ -63,7 +72,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Explorers Club Youth Activity Fund.** 2009. $1,500.
 
-# Honors
+## Honors
 
 **NSF GRFP Honorable Mention.** 2016. 
 
@@ -71,7 +80,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Commendation for Excellence, Reed College Junior Qualifying Exam.** 2011.
 
-# Appointments
+## Appointments
  
 **National Defense Science and Engineering Graduate Fellow.** 2016 - 2019. US Department of Defense.
 
@@ -80,7 +89,9 @@ SHP. *Muruk* 10(1), 4-7.
 **Visiting Researcher.** 2016. Department of Ornithology & Mammology, California Academy of Sciences.
 
 **WRF-Hall Fellow.** 2016. Department of Biology, University of Washington. 
-
+  
+**Curatorial Assistant.** 2016. Burke Museum of Natural History & Culture, University of Washington.  
+  
 **Teaching Assistant.** 2014-2016. Department of Biology, University of Washington.
 
 **Research Assistant.** 2014. Museum of Natural History, University of Colorado Boulder
@@ -95,18 +106,24 @@ SHP. *Muruk* 10(1), 4-7.
 
 **NSF REU Student.** 2011. Department of Biology, University of Washington.
 
-# Presentations 
+## Presentations 
+
+**Linck, E.**, Battey, C.J.. 2018. One weird trick to break *structure*: Derived allele frequencies and the accurate inference of ancestry.
+Graduate Student Symposium, UW Biology, Seattle, WA.    
+   
+**Linck, E.**, Freeman, B.G., Dumbacher, J., Klicka, J. 2018. Ecological speciation across an elevational gradient in New Guinea 
+Kingfishers? American Ornithological Society Meeting, Tucson, AZ. 
 
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
 A Migratory Divide In The Painted Bunting (*Passerina ciris*). Rocky Mountain Biology Laboratory Graduate 
-Student Talks, Gothic, CO.
-
+Student Talks, Gothic, CO.  
+  
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
 A Migratory Divide In The Painted Bunting (*Passerina ciris*) (poster). Evolution Meetings, Portland, OR.
-
+  
 **Linck, E.** 2017. Phenotype, species limits, and adaptation in a New Guinea kingfisher. Graduate Student Symposium,
 UW Biology, Seattle, WA.  
-
+  
 **Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Trilogy Bird Club, Redmond, WA. 
 
 **Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Eastside Audubon Society, Kirkland, WA. 
@@ -141,33 +158,29 @@ griseotinctus.) Oral Thesis Defense, Reed College, Portland, OR.
 White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 (STARs) Seminar Series, Reed College, Portland, OR.
 
-# Popular Writing
+## Selected Popular Writing
 
-The politics of beauty, choice and natural selection: Richard Prum's *The Evolution of Beauty* In press. *Los Angeles Review of Books.*
+[Your stoke won't save us](https://www.hcn.org/issues/50.8/recreation-your-stoke-wont-save-us/). 2018. *High Country News.*  
+  
+[Darwinian Sexual Selection and the Politics of Beauty](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/#!) 2018. *Los Angeles Review of Books.*  
 
-[Bidding a Woeful Farewell to NSF’s Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*
+[Bidding a Woeful Farewell to NSF’s Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*  
 
-[Food Evolution (Review)](http://www.thestranger.com/movies/25117230/food-evolution). 2017. *The Stranger.*
+[Food Evolution (Review)](http://www.thestranger.com/movies/25117230/food-evolution). 2017. *The Stranger.*  
 
-[Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*
+[Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*  
 
-[How Trump's War on Science Might Hurt the University of Washington.](http://www.thestranger.com/slog/2017/01/27/24829608/how-trumps-war-on-science-might-hurt-the-university-of-washington) 2017. *The Stranger.*
+[How Trump's War on Science Might Hurt the University of Washington.](http://www.thestranger.com/slog/2017/01/27/24829608/how-trumps-war-on-science-might-hurt-the-university-of-washington) 2017. *The Stranger.*  
 
-[British Scientists Wanted No Exit From the EU.](http://www.thestranger.com/slog/2016/06/24/24257994/british-scientists-wanted-no-exit-from-the-eu) 2016. *The Stranger.*
+[British Scientists Wanted No Exit From the EU.](http://www.thestranger.com/slog/2016/06/24/24257994/british-scientists-wanted-no-exit-from-the-eu) 2016. *The Stranger.*  
 
 [Science News (weekly column).](http://www.thestranger.com/authors/23759410/ethan-linck) 2016. *The Stranger.*
 
 [Wilderness and "A Third-World Critique" in the Era of Climate Change.](http://www.hypocritereader.com/69/title) 2016. *The Hypocrite Reader* 69. 
 
-[The UW Light Rail Station Will Help Bridge the Psychological Distance Between the Two Halves of the City.](http://www.thestranger.com/slog/2016/03/18/23758213/why-university-of-washington-station-will-help-bridge-the-psychological-distance-between-the-two-halves-of-the-city) 2016. *The Stranger.*
-
 [Birds, Whiskey, and the Modern Evolutionary Synthesis: Ernst Mayr in the Solomon Islands.](http://www.hypocritereader.com/59/mayr) 2015. *The Hypocrite Reader* 59. 
 
-[The Gorge.](http://www.bearings-journal.com/) 2015. *Bearings Journal* 1. 
-
 [A Trail Runner Defends His Right to Public Lands.](http://www.hcn.org/articles/anger-against-trail-runners-public-lands-Mt-Rainier-Wonderland-Grand-Canyon-response) 2015. *High Country News.*
-
-[Black Coffee.](http://hypocritereader.com/47/black-coffee) 2014. *The Hypocrite Reader* 47.
 
 [El Oso Plateado.](http://hypocritereader.com/39/el-oso-plateado) 2014. *The Hypocrite Reader* 39.
 
@@ -175,7 +188,7 @@ The politics of beauty, choice and natural selection: Richard Prum's *The Evolut
 
 [On Singing.](http://hypocritereader.com/31/on-singing) 2013. *The Hypocrite Reader* 31. 
 
-# Teaching Experience  
+## Teaching Experience  
 
 Biology 472: Community Ecology. Fall 2015. Teaching Assistant. Department of Biology, University of Washington.  
 
@@ -187,13 +200,15 @@ Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Teac
 
 Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biology, Reed College.   
 
-# Field Experience
+## Field Experience
+
+*Chimbu Province, Papua New Guinea.* 2017. Collecting specimens for dissertation research. 
 
 *E Oregon, USA.* 2017. General collecting for UWBM Ornithology. 
 
 *Idaho & SE Washington, USA.* 2015. General collecting for UWBM Ornithology. 
 
-*Colorado, USA.* 2014. Managing Boechera garden plots along an elevational transect.
+*Colorado, USA.* 2014. Managing Boechera garden plots along an elevational transect.  
 
 *Colorado, USA.* 2013-2014. Winter caretaker at snowbound Rocky Mountain Biological Laboratory field station. 
 
@@ -211,29 +226,55 @@ Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biolog
 
 *Gulf Province, Papua New Guinea.* 2008. GIS mapping of clan boundaries, Crater Mountain Wildlife Management Area. 
 
-# Outreach & Service
+## Outreach & Service
 
  **Natural History Museum Collections**  
-- Weekly preparation of scientific bird specimens for the Burke Museum collections    
-- Annual participation in the Burke Museums collecting expeditions  
-- Tour guide for UW Introductory Biology field trips to the Burke Museum specimen collections  
-- Regularly help run the Burke Museums Members Night and Birds at the Burke outreach events  
+- Weekly preparation of scientific bird specimens for UWBM collections    
+- Annual participation in UWBM collecting expeditions  
+- Tour guide for UW Introductory Biology field trips to UWBM specimen collections  
+- Regularly help run the Burke Museum's "Members Night" and "Birds at the Burke" outreach events  
 
 **Departmental Service**  
-- Organizer for a graduate student seminar on phylogenetics  
-- Host for prospective graduate students  
-
+- Organizer for a graduate student seminar on phylogenetics (2015)  
+- Host for prospective graduate students (2015, 2016, 2017, 2018)  
+- Committee member, Graduate-led Action on Diversity and Equity (2018)  
+  
 **Contributions to the field**    
 - Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Manuscript referee, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*  
+- Peer reviewer, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Conservation Genetics.*  
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad 
 
-# Graduate Committee  
+## Graduate Committee  
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser
 
-# Collaborators
+## Collaborators
 C.J. Battey (U Washington); D. Slager (U Washington); C. French (U Washington); E. Bridge (U Oklahoma); R. Bryson (U Washington); J. Duckles (U Oklahoma); J. 
 Dumbacher (California Academy of Sciences); K. Epperly (U Washington); E. Fricke (U Iowa); R. Guralnick (U
 Florida); Z. Hanna (UC Berkeley); J. McCormack (Occidental College); A. Navarro-Siguenza (UNAM); A. Sellas (California Academy of Sciences); H. Rogers (U Iowa); S. Rohwer (U
 Washington), S. Schaack (Reed College), K. Sheldon (U Tennessee), E. Zarza (Occidental College)
+
+## References
+
+**John Klicka**  
+Curator of Birds, Burke Museum of Natural History and Culture  
+Don and Betts Baepler Endowed Professor, University of Washington Department of Biology  
+Box 351800 Kincaid Hall  
+Seattle, WA 98195 USA  
+klicka@uw.edu  
+
+**John P. Dumbacher**  
+Curator of Ornithology and Mammalogy, California Academy of Sciences  
+55 Music Concourse Drive  
+Golden Gate Park  
+San Francisco, CA 94118 USA  
+jdumbacher@calacademy.org  
+
+**Sarah Schaack**  
+Associate Professor, Reed College Department of Biology  
+3203 Southeast Woodstock Boulevard  
+Portland, OR 97202 USA  
+schaack@reed.edu  
+
+
+
