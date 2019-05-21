@@ -6,12 +6,12 @@ Department of Ecology & Evolutionary Biology
 University of Tennessee, Knoxville   
 email: elinck@uw.edu   
 web: https://elinck.org/  
-  
+
 ## Education
 
-Ph.D. 2014 - 2019 (*expected*). **University of Washington,** Seattle, WA  
+Ph.D. 2019. **University of Washington,** Seattle, WA  
 
-B.A. 2009 - 2013. **Reed College,** Portland, OR  
+B.A. 2013. **Reed College,** Portland, OR  
 
 ## Publications
 
