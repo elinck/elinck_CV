@@ -1,13 +1,11 @@
-(*updated 051419*)
+(*updated 052119*)
 
 ## Ethan Linck
-Ph.D. Candidate  
-University of Washington Dept. of Biology  
-Burke Museum of Natural History & Culture    
-6800 27th Ave NE Unit 1, Seattle, WA 98115  
-phone: (802) 777-6662  
+Postdoctoral Research Associate
+Department of Ecology & Evolutionary Biology
+University of Tennessee, Knoxville 
 email: elinck@uw.edu  
-web: https://elinck.github.io/   
+web: https://elinck.org/
 
 ## Education
 
