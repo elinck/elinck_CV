@@ -1,12 +1,12 @@
 (*updated 052119*)
 
-## Ethan Linck
-Postdoctoral Research Associate
-Department of Ecology & Evolutionary Biology
-University of Tennessee, Knoxville 
-email: elinck@uw.edu  
-web: https://elinck.org/
-
+## Ethan Linck  
+Postdoctoral Research Associate  
+Department of Ecology & Evolutionary Biology  
+University of Tennessee, Knoxville   
+email: elinck@uw.edu   
+web: https://elinck.org/  
+  
 ## Education
 
 Ph.D. 2014 - 2019 (*expected*). **University of Washington,** Seattle, WA  
