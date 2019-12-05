@@ -1,4 +1,4 @@
-(*updated 102919*)
+(*updated 120519*)
 
 ## Ethan Linck  
 Postdoctoral Research Associate  
@@ -80,15 +80,21 @@ SHP. *Muruk* 10(1), 4-7.
 
 ## Teaching Experience  
 
-Biology 472: Community Ecology. Fall 2015. Teaching Assistant. Department of Biology, University of Washington.  
+*As Teaching Assistant:*  
 
-Biology 452: Vertebrate Biology. Summer 2015. Teaching Assistant. Department of Biology, University of Washington.  
+Biology 472: Community Ecology. Fall 2015. Department of Biology, University of Washington.  
 
-Biology 200: Introductory Biology II. Fall 2014. Teaching Assistant. Department of Biology, University of Washington.   
+Biology 452: Vertebrate Biology. Summer 2015. Department of Biology, University of Washington.  
 
-Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Teaching Assistant. Department of Biology, University of Washington.  
+Biology 200: Introductory Biology II. Fall 2014. Department of Biology, University of Washington.   
 
-Biology 366: Population Ecology and Evolution. Teaching Assistant. Spring 2013. Department of Biology, Reed College.
+Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Department of Biology, University of Washington.  
+
+Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biology, Reed College.
+
+*As Workshop Instructor:*  
+
+BioFrontiers QED Supergroup: "Basic population genomic analysis in Python and R." 2019. University of Colorado, Boulder.  
 
 ## Honors
 
@@ -282,7 +288,7 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 **Contributions to the field**    
 - Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *Systematic Biology* (2), *Molecular Ecology* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (1).    
+- Peer reviewer, *Systematic Biology* (2), *Molecular Ecology* (3), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (1).    
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
