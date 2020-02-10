@@ -1,4 +1,4 @@
-(*updated 120519*)
+(*updated 021020*)
 
 ## Ethan Linck  
 Postdoctoral Research Associate  
@@ -14,6 +14,8 @@ Ph.D. 2019. **University of Washington,** Seattle, WA
 B.A. 2013. **Reed College,** Portland, OR  
 
 ## Publications
+
+**Linck, E.**. In press. Bird Species: How They Arise, Modify and Vanish. *The Auk.*  
 
 **Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
 
@@ -241,6 +243,8 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 ## Field Experience   
 
+*Napo Province, Ecuador* 2020. Collecting climate data for postdoctoral research with K. Sheldon.  
+
 *Napo Province, Ecuador* 2019. Collecting dung beetles for postdoctoral research with K. Sheldon.  
 
 *Madang Province, Papua New Guinea.* 2018. Collecting genetic material for dissertation research.  
@@ -288,7 +292,11 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 **Contributions to the field**    
 - Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *Systematic Biology* (2), *Molecular Ecology* (3), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (1).    
+- Peer reviewer, *The Auk* (2), *Systematic Biology* (2), *Molecular Ecology* (4), *Molecular
+Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1),
+*Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity*
+(2), *Genes, Genomes, Genetics* (1), *Proceedings of the Royal Society B* (1); Society of
+Systematic Biology Graduate Student Research Award (2)  
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
