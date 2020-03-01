@@ -312,6 +312,8 @@ J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser
 ## Collaborators
 **CJ Battey** (U Washington); **E Bridge** (U Oklahoma); **R Bryson** (U Washington); **R Cañales** (UA Nuevo León); **J Celi** (U Regional Amazónica Ikiam); **J Duckles** (U Oklahoma); **J Dumbacher** (California Academy of Sciences); **P van Els** (U Gronigen); **K Epperly** (U Washington); **BG Freeman** (U British Columbia); **C French** (U Washington); **E Fricke** (U Iowa); **E Funk** (CU Boulder); **HF Greeney** (Yanayacu Biological Station); **Z Hanna** (UC Berkeley); **HC Huber** (U Washington); **J McCormack** (Occidental College); **A Navarro-Siguenza** (UNAM); **H Rogers** (U Iowa); **S Rohwer** (U Washington); **S Schaack** (Reed College); **A Sellas** (California Academy of Sciences); **G Semenov** (CU Boulder);  **K Sheldon** (U Tennessee); **D Slager** (U Washington); **G Spellman** (Denver Museum of Nature and Science); **PW Sykes, Jr.** (USGS Patuxent Wildlife Research Center); **S Taylor** (CU Boulder)  
 
+\newpage
+
 ## References
 
 **Kimberly S. Sheldon**    
