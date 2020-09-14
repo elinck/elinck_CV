@@ -15,6 +15,8 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
+**Linck, E.**, Freeman, B.G., Dumbacher, J.P. In Press. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology.* Preprint DOI: [10.1101/589044](https://doi.org/10.1101/589044)
+
 **Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*   
 
 **Linck, E.**, Celi, J.E., Sheldon, K.S. 2020. Panmixia across elevation in thermally sensitive Andean dung beetles. *Ecology and Evolution* 10(9), 4143-4155.   
@@ -51,8 +53,6 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Linck, E.**, Battey, C.J. 2019. On the relative ease of speciation with periodic gene flow. *bioRxiv.* DOI: [10.1101/758664](https://doi.org/10.1101/758664)     
 
-**Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2019. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *bioRxiv.* DOI: [10.1101/589044](https://doi.org/10.1101/589044)    
-
 ## Grants, Awards, & Fellowships  
 
 **American Ornithological Society Kessel Fellowship (*declined*).** 2019. $15,000.      
@@ -83,7 +83,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Explorers Club Youth Activity Fund.** 2009. $1,500.
 
-## Teaching Experience  
+## Teaching Experience and Pedagogical Training
 
 *As Teaching Assistant:*  
 
@@ -100,6 +100,10 @@ Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biolog
 *As Workshop Instructor:*  
 
 BioFrontiers QED Supergroup: "Basic population genomic analysis in Python and R." 2019. University of Colorado, Boulder.  
+
+*Pedagogical Tools:*  
+
+Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with assortative mating into an interactive Shiny App: https://elinck.shinyapps.io/hzam_shiny/  
 
 ## Honors
 
@@ -163,6 +167,8 @@ tropical mountains? Insights from genomics and New Guinea kingfishers. Universit
 Pacific PaCE-SD Seminar, Suva, Fiji.
 
 ## Contributed Presentations  
+
+**Linck, E.**. 2020. Early Professionals Mini-Talk Symposium. North American Ornithological Congress VII. Virtual.
 
 **Linck, E.**, Celi, J.E., Sheldon, K.S. 2019. Climate as a barrier to dispersal over mountain passes: is gene flow reduced across elevational gradients in tropical Andean beetles? Ecological Society of America Meeting, Louisville, KY.     
 
@@ -300,7 +306,7 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 **Contributions to the field**    
 - Multiple articles for the *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *The Auk* (3), *Systematic Biology* (3), *Molecular Ecology* (6), *Evolution* (2), *Evolution Letters* (1), *The American Naturalist* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (3), *Proceedings of the Royal Society B* (1); *The Wilson Journal of Ornithology* (1); *Journal of Biogeography* (2); *Bulletin of the British Ornithologists' Club* (1); *Ecological Entomology* (1); Society of Systematic Biology Graduate Student Research Award (2)  
+- Peer reviewer, *The Auk* (3), *Systematic Biology* (3), *Molecular Ecology* (6), *Evolution* (2), *Evolution Letters* (1), *The American Naturalist* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (3), *Proceedings of the Royal Society B* (1); *The Wilson Journal of Ornithology* (1); *Journal of Biogeography* (2); *Bulletin of the British Ornithologists' Club* (1); *Ecological Entomology* (1); *Emu* (1); Society of Systematic Biology Graduate Student Research Award (2)  
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
@@ -312,8 +318,6 @@ J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser
 
 ## Collaborators
 **CJ Battey** (U Washington); **E Bridge** (U Oklahoma); **R Bryson** (U Washington); **R Cañales** (UA Nuevo León); **D Cadena** (U Andes); **J Celi** (U Regional Amazónica Ikiam); **J Duckles** (U Oklahoma); **J Dumbacher** (California Academy of Sciences); **P van Els** (U Gronigen); **K Epperly** (U Washington); **BG Freeman** (U British Columbia); **C French** (U Washington); **E Fricke** (U Iowa); **E Funk** (CU Boulder); **HF Greeney** (Yanayacu Biological Station); **Z Hanna** (UC Berkeley); **HC Huber** (U Washington); **J McCormack** (Occidental College); **A Navarro-Siguenza** (UNAM); **J Parra** (UN Colombia); **H Rogers** (U Iowa); **S Rohwer** (U Washington); **S Schaack** (Reed College); **A Sellas** (California Academy of Sciences); **G Semenov** (CU Boulder); **K Sheldon** (U Tennessee); **D Slager** (U Washington); **G Spellman** (Denver Museum of Nature and Science); **PW Sykes, Jr.** (USGS Patuxent Wildlife Research Center); **S Taylor** (CU Boulder); **I Quintero** (IBENS)
-
-\newpage
 
 ## References
 
