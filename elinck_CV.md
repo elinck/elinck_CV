@@ -83,7 +83,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Explorers Club Youth Activity Fund.** 2009. $1,500.
 
-## Teaching Experience and Pedagogical Training
+## Teaching Experience
 
 *As Teaching Assistant:*  
 
