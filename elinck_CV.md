@@ -1,4 +1,4 @@
-(*updated 093021*)
+(*updated 113021*)
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
@@ -15,7 +15,7 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
-15\) **Linck, E.**, Freeman, B.G., Cadena, C.D., Ghalambor, C.K. *Accepted.* Evolutionary conservatism will limit responses to climate change in the tropics. *Biology Letters*.
+15\) **Linck, E.**, Freeman, B.G., Cadena, C.D., Ghalambor, C.K. 2021. Evolutionary conservatism will limit responses to climate change in the tropics. *Biology Letters* 17(10), 20210363.
 
 14\) Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A. 2021. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications* 12, 1019.   
 
@@ -52,7 +52,9 @@ SHP. *Muruk* 10(1), 4-7.
 
 ## In Review
 
-**Linck, E.B.**, Williamson, J.L., Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. *In review*. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *eLife.*    
+Williamson, J.L., **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C.  *Submitted.* Oxygen availability drives blood-hemoglobin content and the cell number-size tradeoff across the Andean hummingbird radiation. *Current Biology.*  
+
+**Linck, E.B.**, Williamson, J.L., Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. *In review*. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist.*    
 
 Sheldon, K.S., **Linck, E.B.**, Giam, X., McGee, M.R., Arendt, W., Brawn, J.D., DeGroote, L.W., Humple, D.L., Jirinec, V., Rutt, C.L., Stouffer, P.C., Tarwater, C.E., Toms, J.D. *In revision*. Bird body size declines associated with climate warming are greatest in the tropics. *Nature Communications*.  
 
@@ -90,7 +92,7 @@ Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B
 
 **Explorers Club Youth Activity Fund.** 2009. $1,500.  
 
-## Grantwriting Experience
+## Other Grantwriting Experience
 
 Global Phenotypic Flexibility in House Sparrows: Are Climate and Metabolic Flexibility Correlated? Co-PI with D. Swanson and B. Wone. Full proposal submitted to **NSF Division of Integrative Organismal Systems** Not funded.
 
@@ -310,7 +312,7 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 **Contributions to the field**    
 - Multiple articles for the *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *The Auk*, *Systematic Biology*, *Molecular Ecology*, *Evolution*, *Evolution Letters*, *The American Naturalist*, *Molecular Ecology Resources*, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Conservation Genetics*, *Ecosphere*, *Heredity*, *Genes, Genomes, Genetics*,  *Proceedings of the Royal Society B*, *The Wilson Journal of Ornithology*, *Journal of Biogeography*, *Bulletin of the British Ornithologists' Club*, *Ecological Entomology*, *Emu*, *Ecology and Evolution*, *Journal of Carribean Ornithology*, *Biology Letters*, *Revista de Biología Tropical*, Society of Systematic Biology Graduate Student Research Award
+- Peer reviewer, *The Auk*, *Systematic Biology*, *Molecular Ecology*, *Evolution*, *Evolution Letters*, *The American Naturalist*, *Molecular Ecology Resources*, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Conservation Genetics*, *Ecosphere*, *Heredity*, *Genes, Genomes, Genetics*,  *Proceedings of the Royal Society B*, *The Wilson Journal of Ornithology*, *Journal of Biogeography*, *Bulletin of the British Ornithologists' Club*, *Ecological Entomology*, *Emu*, *Ecology and Evolution*, *Journal of Caribbean Ornithology*, *Biology Letters*, *Revista de Biología Tropical*, *Biotropica*, Society of Systematic Biology Graduate Student Research Award
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
@@ -319,37 +321,3 @@ The Society for the Study of Evolution, The American Society of Naturalists, The
 
 ## Graduate Committee  
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser  
-
-## Collaborators
-**CJ Battey** (U Washington); **E Bridge** (U Oklahoma); **R Bryson** (U Washington); **R Cañales** (UA Nuevo León); **D Cadena** (U Andes); **J Celi** (U Regional Amazónica Ikiam); **J Duckles** (U Oklahoma); **J Dumbacher** (California Academy of Sciences); **P van Els** (U Gronigen); **K Epperly** (U Washington); **BG Freeman** (U British Columbia); **C French** (U Washington); **E Fricke** (U Iowa); **E Funk** (CU Boulder); **HF Greeney** (Yanayacu Biological Station); **Z Hanna** (UC Berkeley); **HC Huber** (U Washington); **J McCormack** (Occidental College); **A Navarro-Siguenza** (UNAM); **J Parra** (UN Colombia); **H Rogers** (U Iowa); **S Rohwer** (U Washington); **S Schaack** (Reed College); **A Sellas** (California Academy of Sciences); **G Semenov** (CU Boulder); **K Sheldon** (U Tennessee); **D Slager** (U Washington); **G Spellman** (Denver Museum of Nature and Science); **PW Sykes, Jr.** (USGS Patuxent Wildlife Research Center); **S Taylor** (CU Boulder); **I Quintero** (IBENS)
-
-## References
-
-**Christopher C. Witt**    
-Curator of Birds & Director, Museum of Southwestern Biology  
-Professor, University of New Mexico Department of Biology   
-CERIA 228    
-219 Yale Blvd NE    
-Albuquerque, NM 87131   
-cwitt@unm.edu   
-
-**Kimberly S. Sheldon**    
-Assistant Professor, University of Tennessee, Knoxville Department of Ecology & Evolutionary Biology  
-569 Dabney Hall  
-1416 Circle Drive  
-Knoxville, TN 37996  
-kimberlyssheldon@gmail.com  
-
-**John Klicka**  
-Curator of Birds, Burke Museum of Natural History and Culture  
-Don and Betts Baepler Endowed Professor, University of Washington Department of Biology  
-Box 351800 Kincaid Hall  
-Seattle, WA 98195 USA  
-klicka@uw.edu  
-
-**John P. Dumbacher**  
-Curator of Ornithology and Mammalogy, California Academy of Sciences  
-55 Music Concourse Drive  
-Golden Gate Park  
-San Francisco, CA 94118 USA  
-jdumbacher@calacademy.org  
