@@ -1,11 +1,11 @@
-(*updated 080122*)
+(*updated 031721*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
-University of Wyoming Department of Zoology & Physiology  
+Department of Biology & Museum of Southwestern Biology  
+University of New Mexico   
 email: ethanblinck@gmail.com  
 web: https://elinck.org/    
-newsletter: https://ethanlinck.substack.com/  
 
 ## Education
 
@@ -13,9 +13,36 @@ Ph.D. 2019. **University of Washington,** Seattle, WA
 
 B.A. 2013. **Reed College,** Portland, OR  
 
+## Professional Appointments
+
+**NSF Postdoctoral Research Fellow in Biology.** 2020. Department of Biology & Museum of Southwestern Biology, University of New Mexico.  
+
+**Research Affiliate.** 2019-2021. Taylor Lab, Department Ecology and Evolutionary Biology, University of Colorado, Boulder.  
+
+**Postdoctoral Research Associate.** 2019-2020. Department of Ecology & Evolutionary Biology, University of Tennessee, Knoxville.  
+
+**National Defense Science and Engineering Graduate Fellow.** 2016 - 2019. US Department of Defense.
+
+## Relevant Research Experience
+
+**NSF Postdoctoral Research Fellow in Biology—University of New Mexico (40+ hrs/week).**  
+**Supervisor: Chris Witt (OK to contact)**  
+
+As a NSF Postdoctoral Research Fellow in Biology at the University of New Mexico, I obtained independent funding to develop and execute a research program into the molecular genetics of elevational ranges in mountain birds, integrating landscape and functional genomic data with large-scale physiological trait measurements to address a variety of basic and applied research questions related to ecological and evolutionary responses to global change in complex landscapes (e.g., Linck et al. 2021, *Biol. Lett.*). This research involved both coordinating international collaborations with academic biologists and directing a community science initiative that is expanding to include local conservation and resource management partners. Significant findings to date include evidence of selection to optimize blood-oxygen carrying capacity at upper and lower range limits (Linck et al. 2021, *bioRxiv*). Additional duties included popular science writing, mentoring graduate and undergraduate students, scientific peer review, giving oral presentations to diverse audiences and contributing to programmatic goals at the Museum of Southwest Biology.  
+
+**Postdoctoral Research Associate—University of Tennessee (40+ hrs/week)**  
+**Supervisor: Kimberly Sheldon (OK to contact)**  
+
+As a Postdoctoral Research Associate at University of Tennessee, Knoxville, I contributed molecular genetic expertise to an interdisciplinary research program focused on describing ecological and evolutionary responses to global change. Work included analysis and modeling of landscape genomic data to understand patterns of gene flow and genetic diversity in insects, microclimate monitoring with dataloggers across elevational gradients, and analysis and modeling of temporal measurements of vertebrate trait data across large spatial scales (Sheldon et al. *In review*). I directly supported logistics and long-term planning of an international field program, helped build capacity in computational biology, and managed undergraduate and graduate students during data collection. Significant findings include describing panmixia across elevational ranges in thermally sensitive dung beetles (Linck et al. 2020 *Ecol. Evol.*). Additional duties included popular science writing, mentoring graduate and undergraduate students, scientific peer review and giving oral presentations to diverse audiences.  
+
+**National Defense Science and Engineering Graduate Fellow—University of Washington (40+ hrs/week)**  
+**Supervisor: John Klicka (OK to contact)**  
+
+My Ph.D. research at the Department of Biology at the University of Washington asked how landscapes shape genetic diversity, divergence history, and patterns of gene flow in mountain birds. This work addressed basic questions in ecology and evolutionary biology and delimited populations of conservation importance. Projects involved generating DNA sequence data with multiple wet lab approaches, building reproducible bioinformatic pipelines, and performing analyses with tools such as clustering algorithms, coalescent and forward-time simulators, and species tree approaches. Significant findings include discovering paraphyly in western *Empidonax* flyctachers (Linck et al. 2019 *Syst. Biol.*), describing divergence and gene flow in montane kingfisher species (Linck et al. 2020 *J. Evol. Biol.*), and describing the influence of minor allele frequency filters on population genetic inference (Linck & Battey 2019 *Mol. Ecol. Res.*) Additional duties included scientific peer review, seeking and obtaining independent funding, mentoring undergraduate students, giving regular oral presentations to both scientist and nonscientist audiences, and contributing to programmatic goals at the Burke Museum of Natural History & Culture.  
+
 ## Publications  
 
-16\) Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. 2022. Barriers and gradients: the formation of montane diversity. *Nature Communications* 13, 268.  
+16\) Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. *In press*. Barriers and gradients: the formation of montane diversity. *Nature Communications*.  
 
 15\) **Linck, E.**, Freeman, B.G., Cadena, C.D., Ghalambor, C.K. 2021. Evolutionary conservatism will limit responses to climate change in the tropics. *Biology Letters* 17(10), 20210363.  
 
@@ -42,7 +69,7 @@ B.A. 2013. **Reed College,** Portland, OR
 A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*
 191(2), 259-268.  
 
-4\) **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8).  
+4\) **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8), 4755-4767.
 
 3\) **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing migration patterns in Painted Buntings using the world's bird collections as
 an aggregated resource. *PeerJ* 4:e1871.   
@@ -54,7 +81,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 ## In Review
 
-Williamson, J.L., **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. *Submitted.* Oxygen availability drives blood-hemoglobin content and the cell number-size tradeoff across the Andean hummingbird radiation. *Nature Ecology and Evolution.*  
+Williamson, J.L., **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. *Submitted.* Oxygen availability drives blood-hemoglobin content and the cell number-size tradeoff across the Andean hummingbird radiation. *Nature Ecology & Evoltution.*  
 
 **Linck, E.B.**, Williamson, J.L., Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. *In revision*. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist.*    
 
@@ -126,45 +153,9 @@ Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with asso
 
 **Commendation for Excellence, Reed College Junior Qualifying Exam.** 2011.
 
-## Appointments
-
-**NSF Postdoctoral Research Fellow in Biology.** 2020-2022. Department of Zoology & Physiology, UW Museum of Vertebrates, and The Biodiversity Institute, University of Wyoming.
-
-**NSF Postdoctoral Research Fellow in Biology.** 2020-2022. Department of Biology & Museum of Southwestern Biology, University of New Mexico.  
-
-**Research Affiliate.** 2019-2020. Taylor Lab, Department Ecology and Evolutionary Biology, University of Colorado, Boulder.  
-
-**Postdoctoral Research Associate.** 2019-2020. Department of Ecology & Evolutionary Biology, University of Tennessee, Knoxville.  
-
-**National Defense Science and Engineering Graduate Fellow.** 2016 - 2019. US Department of Defense.
-
-**Contributing Writer.** 2016-2018. *The Molecular Ecologist.*
-
-**Visiting Researcher.** 2016. Department of Ornithology & Mammology, California Academy of Sciences.
-
-**WRF-Hall Fellow.** 2016. Department of Biology, University of Washington.
-
-**Curatorial Assistant.** 2016. Burke Museum of Natural History & Culture, University of Washington.  
-
-**Teaching Assistant.** 2014-2016. Department of Biology, University of Washington.
-
-**Research Assistant.** 2014. Museum of Natural History, University of Colorado, Boulder.
-
-**Winter Caretaker.** 2013-2014. Rocky Mountain Biological Laboratory.
-
-**NSF REU Student.** 2013-2014. Summer Systematics Institute, California Academy of Sciences.
-
-**Teaching Assistant.** 2013. Department of Biology, Reed College.
-
-**Research Assistant.** 2012. Department of Biology, University of Utah.
-
-**NSF REU Student.** 2011. Department of Biology, University of Washington.
-
 ## Invited Presentations
 
-**Linck, E.** 2022. Biodiversity, culture, and conservation in New Guinea. Job Talk, Adams State University, Alamosa, CO.  
-
-**Linck, E.** 2022. The evolution of elevational specialization (and why studying it is hard). University of Montana Evolution and Ecology Seminars, Missoula, MT.  
+**Linck, E.** 2020. Niche conservatism, speciation, and range limits on tropical mountainsides. Louisiana State University Museum of Natural Science Seminar Series, Baton Rouge, LA.   
 
 **Linck, E.** 2019. Niche conservatism, speciation, and range limits on tropical mountainsides. Louisiana State University Museum of Natual Science Seminar Series, Baton Rouge, LA.   
 
@@ -176,10 +167,10 @@ Challenges on Public Lands, Salt Lake City, UT.
 **Linck, E.** 2019. Natural selection, gene flow, and complexity in avian speciation. Pacific Lutheran University Biology Seminar, Tacoma, WA.  
 
 **Linck, E.** 2018. Outdoor Recreation and Land Ethics for the 21st Century. Restoring the West: Multiple Use
-and Sustained Yield of Resources on Public Land: Is It Still Possible?, Logan, UT.  
+and Sustained Yield of Resources on Public Land: Is It Still Possible?, Logan, UT.
 
 **Linck, E.**, Freeman, B.G., Dumbacher, J., Klicka, J. 2018. What we talk about when we talk about
-speciation with gene flow in birds. University of New Mexico Brown Bag Seminar, Albuquerque, NM.  
+speciation with gene flow in birds. University of New Mexico Brown Bag Seminar, Albuquerque, NM.
 
 **Linck, E.**, Freeman, B.G., Dumbacher, J., Klicka, J. 2017. Why are there so many bird species in
 tropical mountains? Insights from genomics and New Guinea kingfishers. University of the South
@@ -200,7 +191,9 @@ Pacific PaCE-SD Seminar, Suva, Fiji.
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017.
 A Migratory Divide In The Painted Bunting (*Passerina ciris*). (Co-presented poster.) Evolution Meetings, Portland, OR.  
 
-**Linck, E.**, Sellas, A., Hanna, Z., Dumbacher, J. 2016. hyRAD, museum genomics, and the phylogeography of a New Guinea forest kingfisher. Evolution Meetings, Austin, TX.  
+**Linck, E.**, Sellas, A., Hanna, Z., Dumbacher, J. 2016. hyRAD, museum genomics,
+and the phylogeography of a New Guinea forest kingfisher. Evolution Meetings,
+Austin, TX.  
 
 ## Other Academic Presentations  
 
@@ -223,11 +216,16 @@ Second International Workshop on the Interoceanic Canal through Nicaragua, Manag
 **Linck, E.** 2015. Guest Lecture: Island Biogeography. Biology 472: Community
 Ecology, UW Biology, Seattle, WA.  
 
-**Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium, San Francisco, CA.  
+**Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
+griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium,
+San Francisco, CA.  
 
-**Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus.*) Oral Thesis Defense, Reed College, Portland, OR.  
+**Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
+griseotinctus.*) Oral Thesis Defense, Reed College, Portland, OR.  
 
-**Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research (STARs) Seminar Series, Reed College, Portland, OR.  
+**Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade
+White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
+(STARs) Seminar Series, Reed College, Portland, OR.  
 
 ## Public Presentations  
 
@@ -257,7 +255,7 @@ Ecology, UW Biology, Seattle, WA.
 
 ## Field Experience   
 
-*New Mexico, USA* 2021. Point count surveys breeding bird elevational ranges as part of the Mountain Bird Network.  
+*New Mexico, USA* 2020. Point count surveys breeding bird elevational ranges as part of the Mountain Bird Network.  
 
 *Napo Province, Ecuador* 2020. Collecting climate data for postdoctoral research with K. Sheldon.  
 
@@ -309,13 +307,12 @@ Ecology, UW Biology, Seattle, WA.
 
 **Contributions to the field**    
 - Multiple articles for the *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *The Auk*, *Systematic Biology*, *Molecular Ecology*, *Evolution*, *Evolution Letters*, *The American Naturalist*, *Molecular Ecology Resources*, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Conservation Genetics*, *Ecosphere*, *Heredity*, *Genes, Genomes, Genetics*,  *Proceedings of the Royal Society B*, *The Wilson Journal of Ornithology*, *Journal of Biogeography*, *Bulletin of the British Ornithologists' Club*, *Ecological Entomology*, *Emu*, *Ecology and Evolution*, *Journal of Caribbean Ornithology*, *Biology Letters*, *Revista de Biología Tropical*, *Biotropica*, Society of Systematic Biology Graduate Student Research Award  
+- Peer reviewer, *The Auk*, *Systematic Biology*, *Molecular Ecology*, *Evolution*, *Evolution Letters*, *The American Naturalist*, *Molecular Ecology Resources*, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Conservation Genetics*, *Ecosphere*, *Heredity*, *Genes, Genomes, Genetics*,  *Proceedings of the Royal Society B*, *The Wilson Journal of Ornithology*, *Journal of Biogeography*, *Bulletin of the British Ornithologists' Club*, *Ecological Entomology*, *Emu*, *Ecology and Evolution*, *Journal of Caribbean Ornithology*, *Biology Letters*, *Revista de Biología Tropical*, *Biotropica*, Society of Systematic Biology Graduate Student Research Award
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
 ## Society Membership
-- Elective Member: The American Ornithological Society
-- Member: The Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists  
+The Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists, The American Ornithological Society
 
 ## Graduate Committee  
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser  
